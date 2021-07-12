@@ -23,5 +23,3 @@ Just like UACMe, **I will never upload compiled binaries to this repo.** There a
 
 ## Supported versions
 This attack should work on all versions of Windows 10.
-
-[![HitCount](http://hits.dwyl.com/AzAgarampur/byeintegrity-lite.svg)](http://hits.dwyl.com/AzAgarampur/byeintegrity-lite)
